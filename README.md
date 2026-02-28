@@ -114,7 +114,11 @@ The app will be running at `http://localhost:3000`.
 ## 👥 Team 8
 
 Built as part of the **CSI Project Expo**.
+## Team Members
 
+- [Shravya S] NNM24IS229
+- [Shravya ] NNM24IS226
+[Shika Acharya] NNM24IS219
 ---
 
 ## 📄 License
